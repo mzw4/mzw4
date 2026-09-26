@@ -10,8 +10,9 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/michaelzw/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://www.avina.io/">Avina</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/michaelzw/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://x.com/mikero_manager">X</a>
 </p>
 
 </div>
@@ -42,4 +43,4 @@ I care about reducing unnecessary suffering and making life better for people an
 
 ## ☕ Say hello
 
-[Come say hi!](https://www.linkedin.com/in/michaelzw/) I'd love to hear what you're building—or what rabbit hole you're currently in.
+Say hi on X, LinkedIn, or email! I'd love to hear what you're building—or what rabbit hole you're currently in.
