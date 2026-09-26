@@ -12,7 +12,6 @@
 <p>
   <a href="https://www.linkedin.com/in/michaelzw/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://www.avina.io/">Avina</a> &nbsp;·&nbsp;
-  <a href="#building">What I'm building</a>
 </p>
 
 </div>
